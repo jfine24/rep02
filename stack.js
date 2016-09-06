@@ -3,7 +3,7 @@ var stack = ["banana","orange"];
 stack.push("apple");
 console.log(stack);
 
-stack.push("strawberrt");
+stack.push("strawberry");
 console.log(stack);
 
 stack.push("blueberry");
